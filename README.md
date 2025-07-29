@@ -1,6 +1,7 @@
 
+---
 
-````
+
 # 📧 Email Manager Application
 
 ## 📋 Summary
@@ -16,7 +17,7 @@ This application is a simple email management platform with a **CRUD backend bui
 1. Navigate to the `backend` folder:
    ```bash
    cd backend
-````
+
 
 2. Create and activate a virtual environment:
 
@@ -75,4 +76,5 @@ This application is a simple email management platform with a **CRUD backend bui
 * Setting the correct Python path in VS Code to ensure the virtual environment (`venv`) was used properly
 
 ```
+
 
